@@ -25,7 +25,8 @@ IT Management student based in Brazil
 ![](https://github-profile-trophy.vercel.app/?username=onlyjustmandy&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=onlyjustmandy&icon=0&color=10)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=onlyjustmandy&label=Profile%20Views&color=0&icon=1&pretty=false)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
