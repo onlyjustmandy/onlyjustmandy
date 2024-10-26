@@ -1,9 +1,8 @@
 ### Oie! Eu sou a Amanda (ou Mandy se preferir) 😊 
 
 
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m currently learning C#
 - 🤔 I’m looking for help with programação orientada a objeto
-- 💬 Ask me about t.i. no mundo da moda
 - 📫 How to reach me: amanda_ferreira89@hotmail.com
 - 😄 Pronouns: ela/dela
 
